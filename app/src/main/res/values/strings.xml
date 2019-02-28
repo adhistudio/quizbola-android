@@ -1,3 +1,31 @@
 <resources>
-    <string name="app_name">QuizBolaAdhi</string>
+    <string name="app_name">Quizzler</string>
+
+    <string name="true_button">Benar</string>
+    <string name="false_button">Salah</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Apakah gambar ini Andik Vermansyah ?</string>
+    <string name="question_2">Apakah gambar ini Bimasakti ?</string>
+    <string name="question_3">Apakah gambar ini Egi Maulana Vikri ?</string>
+    <string name="question_4">Apakah gambar ini Evan Dimas ?</string>
+    <string name="question_5">Apakah gambar ini Fachrudin Ayanto?</string>
+    <string name="question_6">Apakah gambar ini Kim Kurniawan ?</string>
+    <string name="question_7">Apakah gambar ini Christian Gonzalez?</string>
+    <string name="question_8">Apakah gambar ini Irfan Bachdim ? </string>
+    <string name="question_9">Apakah gambar ini Hansamu Yama ?</string>
+    <string name="question_10">Apakah gambar ini Ihmed Sofyan ?</string>
+    <string name="question_11">Apakah gambar ini Rachmad darmawan ?</string>
+    <string name="question_12">Apakah gambar ini Indra Sjafri?</string>
+    <string name="question_13">Apakah gambar ini Kim Kurniawan?</string>
+    <string name="question_14">Apakah gambar ini Stefano Lilipaly?</string>
+    <string name="question_15">Apakah gambar ini Maman Abdurrahman?</string>
+    <string name="question_16">Apakah gambar ini Saddil Ramdani?</string>
+    <string name="question_17">Apakah gambar ini Syamsir Alam ?</string>
+    <string name="question_18">Apakah gambar ini Bambang Pamungkas ?</string>
+
 </resources>
